@@ -1,0 +1,73 @@
+.profile-pic {
+    background-image: url(./inputs/profile.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    width: 13em;
+    height: 13em;
+    opacity: 95%;
+    margin-left: 4em;
+
+}
+
+
+.workplace {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+
+}
+
+.place {}
+
+.time {
+    font-weight: var(--regular);
+}
+
+.omnie-section h3 {
+    font-size: 2.25em;
+    letter-spacing: -.25px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.omnie-section h4 {}
+
+.omnie-section h5 {
+    font-size: 1em;
+    letter-spacing: -.25px;
+    margin: 0;
+    padding-bottom: .5em;
+}
+
+.areas {
+    /*text-decoration: overline 4px solid var(--black);*/
+    font-size: 2.25em;
+    letter-spacing: -1.25px;
+    padding-top: 1.25em;
+    margin: 0;
+}
+
+.areas:nth-child(1) {
+    margin-top: 1em;
+}
+
+.areas:nth-child(3) {
+    margin-bottom: 12em;
+}
+
+.place {
+    padding-top: 2em;
+}
+
+.omnie-section p {
+    padding-bottom: 1.25em;
+    margin: 0;
+}
+
+.pasje-first {
+    padding-top: 2em;
+
+}

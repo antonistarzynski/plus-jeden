@@ -1,0 +1,48 @@
+.oferta {
+    font-size: 2.25em;
+    letter-spacing: -1.25px;
+    margin-top: 2.25em;
+}
+
+.oferta-section {}
+
+
+.oferta-title {
+    font-size: 2.25em;
+    letter-spacing: -1.25px;
+    padding-top: 2em;
+}
+
+.oferta-description {
+    font-weight: var(--bold);
+    padding-top: 1.25em;
+}
+
+.number {
+    font-weight: var(--semibold);
+}
+
+.inne-opis {
+    padding-bottom: 2em;
+}
+
+.films-section {
+    padding-top: 3em;
+}
+
+
+.t-1 {
+    margin-top: 12.45em;
+}
+
+.t-2 {
+    margin-top: 6em;
+}
+
+.t-3 {
+    margin-top: 6em;
+}
+
+.t-4 {
+    margin-top: -1em;
+}
